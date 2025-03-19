@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on backend development.
-- 🌱 I’m currently learning Ruby.
+- 🌱 I’m currently learning Vue, Golang and Ruby.
 <!--
 **JimssM/JimssM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
